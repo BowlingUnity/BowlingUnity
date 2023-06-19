@@ -38,4 +38,4 @@
 
 + **Joycon操作**：如图。
 
-  ![JoyCon](.\JoyCon.png)
+  ![JoyCon](JoyCon.png)
